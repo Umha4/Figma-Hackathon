@@ -23,15 +23,15 @@ const PractisePage = () => {
         <p>Now</p>
         </div>
         <div>
-        <p>Loudest à la Madison #1 <br /> 
-        (L'integral)</p>
+        <p>{`Loudest a la Madison #1 `}<br /> 
+        (L integral)</p>
         </div>
         <div className="flex">
         <CiStopwatch className="mt-1 text-[#23A6F0]" /><p className="text-[14px]">22 April 2021</p>
         <p className="text-[14px] ml-8">10 commints</p>
         </div>
         <div className="w-[85px] flex h-[24px] mt-2">
-            <button className="text-[14px]">Lern more  </button>  <p className="mt-1"><PiGreaterThanLight /></p>
+            <button className="text-[14px]">Learn more  </button>  <p className="mt-1"><PiGreaterThanLight /></p>
            
         </div>
         </div>
@@ -48,15 +48,15 @@ const PractisePage = () => {
         <p>Now</p>
         </div>
         <div>
-        <p>Loudest à la Madison #1 <br /> 
-        (L'integral)</p>
+        <p>Loudest a la Madison #1 <br /> 
+        (Lintegral)</p>
         </div>
         <div className="flex">
         <CiStopwatch className="mt-1 text-[#23A6F0]" /><p className="text-[14px]">22 April 2021</p>
         <p className="text-[14px] ml-8">10 commints</p>
         </div>
         <div className="w-[85px] flex h-[24px] mt-2">
-            <button className="text-[14px]">Lern more  </button>  <p className="mt-1"><PiGreaterThanLight /></p>
+            <button className="text-[14px]">Learn more  </button>  <p className="mt-1"><PiGreaterThanLight /></p>
         </div>
         </div>
         
@@ -72,15 +72,15 @@ const PractisePage = () => {
         <p>Now</p>
         </div>
         <div>
-        <p>Loudest à la Madison #1 <br /> 
-        (L'integral)</p>
+        <p>Loudest a la Madison #1 <br /> 
+        (Lintegral)</p>
         </div>
         <div className="flex">
         <CiStopwatch className="mt-1 text-[#23A6F0]" /><p className="text-[14px]">22 April 2021</p>
         <p className="text-[14px] ml-8">10 commints</p>
         </div>
         <div className="w-[85px] flex h-[24px] mt-2">
-            <button className="text-[14px]">Lern more  </button>  <p className="mt-1"><PiGreaterThanLight /></p>
+            <button className="text-[14px]">Learn more  </button>  <p className="mt-1"><PiGreaterThanLight /></p>
            
         </div>
         </div>

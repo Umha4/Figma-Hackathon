@@ -15,7 +15,7 @@ const MyContact = () => {
           CONTACT US
         </h3>
         <h2 className="text-[#252B42] font-bold text-[40px] lg:text-[58px] leading-[50px] lg:leading-[80px]">
-          Get in touch today!
+          Get in touch today
         </h2>
         <p className="text-[#737373] text-[18px] lg:text-[20px] leading-[30px] font-medium">
           We know how large objects will act, but things on a small scale.
@@ -51,10 +51,10 @@ const MyContact = () => {
     {/* Footer Section */}
     <div className="mt-20 text-center space-y-6">
       <h3 className="font-bold text-[16px] text-[#252B42] leading-[24px]">
-        WE CAN'T WAIT TO MEET YOU
+        WE CANT WAIT TO MEET YOU
       </h3>
       <h2 className="text-[40px] lg:text-[58px] leading-[50px] lg:leading-[80px] font-bold text-[#252B42]">
-        Let's Talk
+        Lets Talk
       </h2>
       <div className='flex justify-center'>
         <button className="h-[52px] rounded-[10px] w-[189px] text-white bg-[#23a6f0] flex justify-center items-center">

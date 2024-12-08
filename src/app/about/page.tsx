@@ -33,7 +33,7 @@ const AboutPage = () => {
           Met minim Mollie non desert Alamo est sit cliquey dolor do met sent.
         </p>
         <p className="lg:w-1/2 text-[#737373]">
-          Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics.
+          Problems trying to resolve the conflict between the two major realms of Classical physics Newtonian mechanics.
         </p>
       </div>
     </div>
@@ -56,7 +56,7 @@ const AboutPage = () => {
     {/* Meet Our Team Section */}
     <div className="text-center space-y-6">
       <h1 className="text-3xl font-bold">Meet Our Team</h1>
-      <p className="text-[#737373]">Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics.</p>
+      <p className="text-[#737373]">Problems trying to resolve the conflict between the two major realms of Classical physics Newtonian mechanics.</p>
   
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-7">
         {["/o-1.jpg", "/o-2.png", "/o-1.jpg"].map((src, index) => (
@@ -82,7 +82,7 @@ const AboutPage = () => {
     {/* Sponsors Section */}
     <div className="text-center space-y-4">
       <h1 className="text-2xl font-bold">Big Companies Are Here</h1>
-      <p className="text-[#737373]">Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics.</p>
+      <p className="text-[#737373]">Problems trying to resolve the conflict between the two major realms of Classical physics Newtonian mechanics.</p>
   
       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4 max-w-[1054px] mx-auto">
         {["/v-1.png", "/v-2.png", "/v-3.png", "/v-4.png", "/v-5.png", "/v-6.png"].map((src, index) => (
@@ -102,7 +102,7 @@ const AboutPage = () => {
     <div className="flex flex-wrap lg:flex-nowrap w-full lg:w-[950px] mx-auto rounded-lg overflow-hidden">
       <div className="flex-1 bg-[#2A7CC7] text-white p-10 space-y-6">
         <p className="text-xl font-bold">WORK WITH US</p>
-        <h1 className="text-3xl font-bold">Now Let's Grow Yours</h1>
+        <h1 className="text-3xl font-bold">Now Lets Grow Yours</h1>
         <p className="text-sm">The gradual accumulation of information about atomic and small-scale behavior during the first quarter of the 20th century.</p>
         <button className="w-[132px] h-[42px] border-2 border-white">Button</button>
       </div>
